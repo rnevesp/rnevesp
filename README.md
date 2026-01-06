@@ -1,4 +1,6 @@
-## Hi there👋 I'm Ricardo Neves, AI, ML & Automation enthusiats!
+👨‍💻 AI, ML & Automation enthusiat!
+
+**`🍕🥐`**
 
 - 🔭 I’m currently working on ML Systems and AI Apps
 - 👯 I’m looking to collaborate on building AI stuff
